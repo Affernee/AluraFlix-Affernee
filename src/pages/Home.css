@@ -1,0 +1,20 @@
+.blur {
+  filter: blur(5px);
+  pointer-events: none;
+}
+
+.home {
+  padding: 20px;
+}
+
+.category-title {
+  color: #00aced;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.category-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
